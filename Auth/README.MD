@@ -1,4 +1,4 @@
-# FloraVista Authentication API
+# FloraVista Login & Register API
 
 Welcome to the FloraVista Authentication API. This API provides endpoints for user registration and login.
 
