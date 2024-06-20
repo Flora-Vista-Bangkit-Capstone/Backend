@@ -3,20 +3,6 @@
 ## Overview
 This project is a REST API designed to fetch tips and guides about various plants from specified URLs and provide this data through a GET request.
 
-## Project Structure
-my-plant-tips-api/
-├── controllers/
-│ └── plantTipsController.js
-├── routes/
-│ └── plantTipsRoutes.js
-├── node_modules/
-├── .gitignore
-├── .env
-├── Dockerfile
-├── package.json
-├── package-lock.json
-└── server.js
-
 
 ## Prerequisites
 - Node.js (version 20 or higher)
